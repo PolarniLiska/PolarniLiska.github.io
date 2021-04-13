@@ -1,0 +1,118 @@
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    text-shadow: rgba(20, 27, 92, 0.5);
+    text-align: center;
+    text-shadow: 2cm;
+}
+h3{
+    text-align: center;
+}
+h5{
+    color: white;
+}
+
+h2{
+    text-align: center;
+    text-transform: uppercase;
+}
+
+* {
+    font-family:Georgia, 'Times New Roman', Times, serif, 'Ubuntu', Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    text-align: center;
+    font-family: 'Ubuntu', Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-image: url('img/deep-web-dark-web-darknet-surface-web-difference-featured.jpg');
+    background-attachment: fixed;
+}
+
+.content {
+    background-color: rgba(255, 255, 255, 0.7);
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+header {
+    background-color: rgba(48, 6, 68, 0.5);
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: whitesmoke;
+    text-align: center;
+}
+
+.txt {
+    margin-left: 30px;
+    margin-right: 30px;
+    font-size: 18px;
+}
+
+.navbcgcolor {
+    background-color: r gba(105, 12, 85, 0.5);
+}
+
+.link {
+    margin-bottom: 10px;
+    font-size: 20px;
+}
+
+table {
+    width: 100%;
+    border-collapse: separate;
+    margin-right: 200px;
+    border-style: groove;
+}
+
+table,
+th,
+td {
+    border: 4px solid rgba(48, 6, 68, 0.5);
+    text-align: center;
+}
+
+#vetsi {
+    font-size: 20px;
+}
+
+#navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+    background-color: rgba(105, 12, 85, 0.5);
+}
+
+.content_h2 {
+    margin-bottom: 15px;
+    font-weight: 500;
+}
+
+#center {
+    text-align: center;
+    margin: 30px;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+#pad {
+    padding: 100px;
+}
+
+hr {
+    margin-bottom: 20px;
+    color: rgba(105, 12, 85, 0.5);
+    border-width: 7px;
+    border-style: solid;
+    display:flex;
+}
